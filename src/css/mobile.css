@@ -36,6 +36,14 @@ img{display:block}
     -webkit-transform:translateZ(0);
     transform:translateZ(0);
 }
+
+.bgc{
+    background-image: url("../imgs/icon_sky.png");
+    width:300px;
+    height: 300px;
+    border: 1px solid;
+}
+
 .dropload-down{
     height: 50px;
 }
